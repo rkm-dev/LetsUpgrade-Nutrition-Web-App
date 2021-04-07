@@ -1,3 +1,3 @@
 # LetsUpgrade-Nutrition-Web-App
 
-### import the collection into a "nutrition" Database in your local mongodb server.
+### import the collection into a "nutrition" database in your local mongodb server.
