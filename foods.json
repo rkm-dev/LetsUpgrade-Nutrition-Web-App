@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "606bbf158db8b62be8feb83f"
+  },
+  "name": "Rice",
+  "calories": 45,
+  "protein": 2,
+  "carbs": 20,
+  "fibre": 21,
+  "weight": 100,
+  "__v": 0,
+  "fats": 1
+},{
+  "_id": {
+    "$oid": "606d2ae084d40f29c8956c40"
+  },
+  "name": "Sugarcane",
+  "calories": 78,
+  "protein": 12,
+  "carbs": 67,
+  "fats": 1,
+  "fibre": 21,
+  "weight": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d2b3584d40f29c8956c41"
+  },
+  "name": "Lettuce",
+  "calories": 56,
+  "protein": 3,
+  "carbs": 34,
+  "fats": 12,
+  "fibre": 56,
+  "weight": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d2b8084d40f29c8956c42"
+  },
+  "name": "Lentils",
+  "calories": 67,
+  "protein": 34,
+  "carbs": 89,
+  "fats": 12,
+  "fibre": 34,
+  "weight": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606d2bfa84d40f29c8956c43"
+  },
+  "name": "Banana",
+  "calories": 56,
+  "protein": 23,
+  "carbs": 90,
+  "fats": 15,
+  "fibre": 56,
+  "weight": 100,
+  "__v": 0
+}]
